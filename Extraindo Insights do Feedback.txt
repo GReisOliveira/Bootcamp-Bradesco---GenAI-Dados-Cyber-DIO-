@@ -1,0 +1,74 @@
+Passo 1 — Intenção
+
+Quero que a IA analise comentários de clientes sobre conta digital, 
+cartão de crédito, empréstimo pessoal e atendimento por telefone/chat 
+de um banco para identificar reclamações frequentes, elogios e 
+oportunidades de melhoria.
+
+O resultado será usado por uma equipe de produto e experiência do 
+cliente para apoiar decisões sobre quais problemas priorizar no 
+próximo trimestre.
+
+A entrega deve conter um resumo executivo, uma tabela com os 
+principais temas identificados e uma lista de ações recomendadas.
+
+O resultado será considerado bom se for claro, organizado, baseado 
+apenas nos comentários fornecidos e útil para priorizar ações.
+
+-------------------------------
+
+Passo 2 — Contexto e restrições
+
+Contexto: Estou trabalhando com feedbacks de clientes bancários 
+relacionados a conta digital, cartão de crédito, empréstimo pessoal 
+e atendimento por telefone/chat.
+
+Dados disponíveis: A base contém data do comentário, canal de 
+atendimento, texto do feedback, produto citado e nota de satisfação 
+de 1 a 5.
+
+Critérios de análise: A IA deve classificar os feedbacks por tema, 
+sentimento, urgência e produto citado.
+
+Cuidados e restrições:
+- Use apenas os dados fornecidos.
+- Não invente números, causas ou conclusões.
+- Não exponha dados pessoais ou sensíveis.
+- Se houver informação insuficiente, indique a limitação.
+- Use linguagem simples, direta e voltada para tomada de decisão.
+
+-------------------------------
+
+Passo 3 — Prompt final unificado
+
+Atue como analista de dados e experiência do cliente em um banco.
+
+Sua tarefa é analisar feedbacks de clientes sobre conta digital, 
+cartão de crédito, empréstimo pessoal e atendimento por telefone/chat 
+para identificar temas recorrentes, sentimento dos clientes e 
+oportunidades de melhoria.
+
+Contexto: A análise será usada por uma equipe de produto e experiência 
+do cliente para priorizar melhorias no próximo trimestre. O foco é 
+transformar comentários soltos em insights claros e acionáveis.
+
+Dados disponíveis: Serão fornecidos comentários com data, canal de 
+atendimento, texto do feedback, produto citado e nota de satisfação 
+de 1 a 5.
+
+Instruções de análise:
+- Classifique os feedbacks por tema, sentimento, urgência e produto citado.
+- Identifique os principais padrões, problemas, elogios e oportunidades.
+- Aponte evidências nos dados fornecidos, usando exemplos curtos de comentários.
+- Sugira ações práticas para a equipe de produto e experiência do cliente.
+
+Formato da resposta: Entregue um resumo executivo com até 5 linhas, 
+uma tabela com tema, sentimento, evidência e ação sugerida, além de 
+uma lista final com as 3 prioridades mais importantes.
+
+Restrições:
+- Use apenas os dados fornecidos.
+- Não invente números, causas ou conclusões.
+- Não exponha dados pessoais ou sensíveis.
+- Informe limitações quando os dados não forem suficientes.
+- Use linguagem simples, direta e voltada para tomada de decisão.
